@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @HugoBoss1924
+- 👀 I’m interested in the fragances
+- 🌱 I’m currently learning FastAPI, PostgreSQL
+- 💞️ I’m looking to collaborate on fashion
+- 📫 How to reach me jfandiobohorquez@gmail.com
+- 😄 Pronouns: Hugo/Boss
+- ⚡ Fun fact: I'm not actually hugo boss....
