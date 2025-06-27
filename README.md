@@ -1,6 +1,5 @@
 # 👋 ¡Hola Aaaamigo!
 
-
 🎓 Estudiante de Ciencia de Datos con base en física, experiencia en desarrollo backend (FastAPI, PostgreSQL), interfaces con React, scraping, automatización y más.  
 🧪 Apasionado por resolver problemas reales con datos y tecnología.  
 😄 R E C O C H A. Me gusta aprender, ayudar y echar código.
