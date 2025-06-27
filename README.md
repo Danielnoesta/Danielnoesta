@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Jerson Daniel Fandiño Bohorquez (a.k.a. Danielnoesta)
+# 👋 ¡Hola Aaaamigo!
 
 🎓 Estudiante de Ciencia de Datos con base en física, experiencia en desarrollo backend (FastAPI, PostgreSQL), interfaces con React, scraping, automatización y más.  
 🧪 Apasionado por resolver problemas reales con datos y tecnología.  
@@ -39,8 +39,11 @@
 
 ## 📈 Estadísticas
 
+## 📈 Estadísticas
+
 ![Danielnoesta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielnoesta&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielnoesta&layout=compact&theme=radical)
+
 
 ---
 
