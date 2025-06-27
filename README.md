@@ -50,7 +50,7 @@
 ## 📮 ¿Cómo contactarme?
 
 - 📧 **jfandiobohorquez@gmail.com**
-- 🌐 [LinkedIn ](www.linkedin.com/in/daniel-bohórquez-07547116a)
+- 🌐 [LinkedIn ](https://www.linkedin.com/in/daniel-boh%C3%B3rquez-07547116a/)
 
 ---
 
