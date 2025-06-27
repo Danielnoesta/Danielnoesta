@@ -39,11 +39,8 @@
 
 ## 📈 Estadísticas
 
-> Estas estadísticas se generan usando mi propio fork de GitHub Stats, autenticado con token para mostrar mis contribuciones privadas y en organizaciones 👇
-
-![Danielnoesta's GitHub stats](https://Danielnoesta.github.io/github-readme-stats/api?username=Danielnoesta&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-![Top Langs](https://Danielnoesta.github.io/github-readme-stats/api/top-langs/?username=Danielnoesta&layout=compact&theme=radical)
+![Danielnoesta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielnoesta&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielnoesta&layout=compact&theme=radical)
 
 ---
 
