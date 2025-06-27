@@ -41,7 +41,7 @@
 
 ## 📈 Estadísticas
 
-![Danielnoesta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danielnoesta&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Danielnoesta's GitHub stats](https://Danielnoesta.github.io/github-readme-stats/api?username=Danielnoesta&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielnoesta&layout=compact&theme=radical)
 
 
