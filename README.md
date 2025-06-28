@@ -43,18 +43,20 @@
 
 ## 📈 Estadísticas
 
+
 ### 📊 Estadísticas de GitHub
 
-<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-lovat-eight-35.vercel.app/api?username=Danielnoesta&show_icons=true&count_private=true&include_all_commits=true&theme=onedark" alt="GitHub stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Danielnoesta&theme=onedark&hide_border=false" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-<!-- Stats generales -->
-<img src="https://github-readme-stats-lovat-eight-35.vercel.app/api?username=Danielnoesta&show_icons=true&count_private=true&include_all_commits=true&theme=onedark" alt="GitHub stats" />
-
-<!-- Racha de contribuciones -->
-<br />
-<img src="https://streak-stats.demolab.com?user=Danielnoesta&theme=onedark&hide_border=false" alt="GitHub Streak" />
-
-</div>
 
 
 ## 📮 ¿Cómo contactarme?
