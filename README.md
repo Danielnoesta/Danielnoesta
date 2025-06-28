@@ -1,7 +1,7 @@
-# 👋 ¡Hola Aaaamigos!
+## 👋 ¡Hola! Soy Daniel Fandiño
 
 
-🎓 Estudiante de Ciencia de Datos con base en física, experiencia en desarrollo backend (FastAPI, PostgreSQL), interfaces con React, scraping, automatización y más.  
+🎓 Estudiante de Ciencia de Datos, experiencia en desarrollo backend (FastAPI, PostgreSQL), interfaces con React, scraping, automatización y más.  
 🧪 Apasionado por resolver problemas reales con datos y tecnología.  
 😄 R E C O C H A. Me gusta aprender, ayudar y echar código.
 
@@ -12,7 +12,6 @@
 
 - 📍 Rolo
 - 💼 Experiencia en análisis y automatización en **Duppla**
-- 🏢 Gestión universitaria en **CityU**
 - 👨‍💻 Enfocado en proyectos de **automatización**, **validación de datos** y **visualización**
 - 📚 Actualmente tomando el curso **Data Analytics Essentials de Cisco**
 
@@ -68,7 +67,7 @@
 
 ## 💬 Fun facts
 
-- 🎉 Me gusta la recocha y los datos.
+- 🎉 Me gusta la recocha y los datos random.
 - 🧃 FoodLover
 - 🧩 Curioso, autodidacta y siempre con ganas de aprender.
 
