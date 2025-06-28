@@ -12,9 +12,9 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 250px></picture>
+
+<br><br>
 
 - 📍 Estudiante de [Ciencia de Datos](https://ingenieria.uniandes.edu.co/es/pregrado-ciencia-de-datos) en [Universidad de los Andes](https://www.uniandes.edu.co/)
 - 💼 Experiencia en análisis y automatización en [Duppla](https://duppla.co/)
