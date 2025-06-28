@@ -1,4 +1,4 @@
-# 👋 ¡Hola Aaaamigo!
+# 👋 ¡Hola Aaaamigos!
 
 
 🎓 Estudiante de Ciencia de Datos con base en física, experiencia en desarrollo backend (FastAPI, PostgreSQL), interfaces con React, scraping, automatización y más.  
