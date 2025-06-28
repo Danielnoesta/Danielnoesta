@@ -46,6 +46,7 @@
 ### 📊 GitHub Stats
 
 ![Danielnoesta's GitHub stats](https://github-readme-stats-lovat-eight-35.vercel.app/api?username=Danielnoesta&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Danielnoesta&theme=github-dark&hide_border=false)](https://git.io/streak-stats)
 
 
 ---
