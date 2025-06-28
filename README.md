@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Daniel Fandiño <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola , soy Daniel Fandiño <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Ciencia+de+datos;Universidad+de+los+Andes"></a>
 </p>
@@ -16,7 +16,7 @@
 
 <br><br>
 
-- 📍 Bogotá D.C.
+- 📍 Estudiante de [Ciencia de Datos](https://ingenieria.uniandes.edu.co/es/pregrado-ciencia-de-datos) en [Universidad de los Andes](https://www.uniandes.edu.co/)
 - 💼 Experiencia en análisis y automatización en **Duppla**
 - 👨‍💻 Enfocado en proyectos de **automatización**, **validación de datos** y **visualización**
 - 📚 Actualmente tomando el curso **Data Analytics Essentials de Cisco**
