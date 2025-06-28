@@ -49,10 +49,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-lovat-eight-35.vercel.app/api?username=Danielnoesta&show_icons=true&count_private=true&include_all_commits=true&theme=onedark" alt="GitHub stats" />
+      <img src="https://github-readme-stats-lovat-eight-35.vercel.app/api?username=Danielnoesta&show_icons=true&count_private=true&include_all_commits=true&theme=graywhite" alt="GitHub stats" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=Danielnoesta&theme=onedark&hide_border=false" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=Danielnoesta&theme=graywhite&hide_border=false" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
