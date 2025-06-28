@@ -12,14 +12,14 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br><br>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 - 📍 Estudiante de [Ciencia de Datos](https://ingenieria.uniandes.edu.co/es/pregrado-ciencia-de-datos) en [Universidad de los Andes](https://www.uniandes.edu.co/)
 - 💼 Experiencia en análisis y automatización en [Duppla](https://duppla.co/)
 - 👨‍💻 Enfocado en proyectos de **automatización**, **validación de datos** y **visualización**
-- 📚 Actualmente tomando el curso [Data Analytics Essentials de Cisco](https://www.netacad.com/courses/data-analytics-essentials?courseLang=en-US&instance_id=e340face-c98f-4d53-91fd-3bf26fbfbed9)
+- 📚 Actualmente tomando el curso [Data Analytics Essentials](https://www.netacad.com/courses/data-analytics-essentials?courseLang=en-US&instance_id=e340face-c98f-4d53-91fd-3bf26fbfbed9) en Cisco.
 
 ---
 
