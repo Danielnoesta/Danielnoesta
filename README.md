@@ -16,7 +16,7 @@
 
 <br><br>
 
-- 📍 Estudiante de [Ciencia de Datos](https://ingenieria.uniandes.edu.co/es/pregrado-ciencia-de-datos) en [Universidad de los Andes](https://www.uniandes.edu.co/)
+- :school: Estudiante de [Ciencia de Datos](https://ingenieria.uniandes.edu.co/es/pregrado-ciencia-de-datos) en [Universidad de los Andes](https://www.uniandes.edu.co/)
 - 💼 Experiencia en análisis y automatización en [Duppla](https://duppla.co/)
 - 👨‍💻 Enfocado en proyectos de **automatización**, **validación de datos** y **visualización**
 - 📚 Actualmente tomando el curso [Data Analytics Essentials](https://www.netacad.com/courses/data-analytics-essentials?courseLang=en-US&instance_id=e340face-c98f-4d53-91fd-3bf26fbfbed9) en Cisco.
