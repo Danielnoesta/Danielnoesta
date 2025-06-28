@@ -5,6 +5,7 @@
 🧪 Apasionado por resolver problemas reales con datos y tecnología.  
 😄 R E C O C H A. Me gusta aprender, ayudar y echar código.
 
+
 ---
 
 ## 🧠 Sobre mí
