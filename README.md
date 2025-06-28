@@ -36,6 +36,8 @@
 ![Retool](https://img.shields.io/badge/Retool-000000?style=for-the-badge&logo=Retool&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
@@ -44,7 +46,7 @@
 ### 📊 GitHub Stats
 
 ![Danielnoesta's GitHub stats](https://github-readme-stats-lovat-eight-35.vercel.app/api?username=Danielnoesta&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielnoesta&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielnoesta&layout=compact&theme=radical&count_private=true)
 
 ---
 
